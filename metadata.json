@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Tic Tac Toe",
+  "description": "A modern and polished Tic Tac Toe game where you can play against a powerful AI opponent powered by the Gemini API. Features adjustable difficulty, a sleek dark/light theme, and smooth animations.",
+  "requestFramePermissions": []
+}
